@@ -13,5 +13,3 @@ def welcome():
     return 'Api Works'
 
 app.run()
-
-#comments
